@@ -1,0 +1,49 @@
+:root {
+  /* ⚪ LIGHT PASTEL COLORS */
+  --light-pastel-red: 255, 153, 153;
+  --light-pastel-yellow: 255, 255, 153;
+  --light-pastel-green: 153, 255, 153;
+  --light-pastel-blue: 153, 204, 255; 
+  --light-pastel-purple: 240, 222, 253; 
+
+  /* ⚫ DARK PASTEL COLORS */ 
+  --dark-pastel-red: 255, 153, 153;
+  --dark-pastel-yellow: 255, 255, 179;
+  --dark-pastel-green: 153, 255, 153;
+  --dark-pastel-blue: 153, 204, 255; 
+  --dark-pastel-purple: 240, 222, 253; 
+}
+
+/* ⚪ LIGHT PASTEL CALLOUTS */
+.callout[data-callout-metadata~="lpred"] {
+  --callout-color: var(--light-pastel-red);
+}
+.callout[data-callout-metadata~="lpyellow"] {
+  --callout-color: var(--light-pastel-yellow);
+}
+.callout[data-callout-metadata~="lpgreen"] {
+  --callout-color: var(--light-pastel-green);
+}
+.callout[data-callout-metadata~="lpblue"] {
+  --callout-color: var(--light-pastel-blue);
+}
+.callout[data-callout-metadata~="lppurple"] {
+  --callout-color: var(--light-pastel-purple);
+}
+
+/* ⚫ DARK PASTEL CALLOUTS */
+.callout[data-callout-metadata~="dpred"] {
+  --callout-color: var(--dark-pastel-red);
+}
+.callout[data-callout-metadata~="dpyellow"] {
+  --callout-color: var(--dark-pastel-yellow);
+}
+.callout[data-callout-metadata~="dpgreen"] {
+  --callout-color: var(--dark-pastel-green);
+}
+.callout[data-callout-metadata~="dpblue"] {
+  --callout-color: var(--dark-pastel-blue);
+}
+.callout[data-callout-metadata~="dppurple"] {
+  --callout-color: var(--dark-pastel-purple);
+}
