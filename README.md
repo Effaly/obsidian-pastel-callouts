@@ -22,17 +22,17 @@ Create a normal callout like you would usually do, and type the color you want (
 ```
 
 ## For Light Themes
-Red = `lpred`
-Yellow = `lpyellow`
-Green = `lpgreen`
-Blue = `lpblue`
-Purple = `lppurple`
-Pink = `lppink`
+- Red = `lpred`
+- Yellow = `lpyellow`
+- Green = `lpgreen`
+- Blue = `lpblue`
+- Purple = `lppurple`
+- Pink = `lppink`
 
 ## For Dark Themes
-Red = `dpred`
-Yellow = `dpyellow`
-Green = `dpgreen`
-Blue = `dpblue`
-Purple = `dppurple`
-Pink = `dppink`
+- Red = `dpred`
+- Yellow = `dpyellow`
+- Green = `dpgreen`
+- Blue = `dpblue`
+- Purple = `dppurple`
+- Pink = `dppink`
